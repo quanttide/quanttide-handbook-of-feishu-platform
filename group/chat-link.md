@@ -4,7 +4,7 @@
 
 ## 身份
 
-外部群机器人取不到链接：实训基地群是外部群，机器人身份调 `chats link` 取不到，须用 HR 用户身份（`--as user`）取。
+外部群机器人取不到链接：外部群的机器人身份调 `chats link` 取不到，须用有权限的用户身份（`--as user`）取。
 
 ```bash
 lark-cli im chats link --chat-id "$CHAT_ID" --as user --format json
