@@ -1,6 +1,6 @@
 # TODO
 
-手册自[投递发码案例](../gallery/qtrecurit/send-invite-email.md)起步，只提炼了其中三个单元。以下为待办，按「待提炼、待核对、待裁定」分组。
+手册自[投递发码案例](../gallery/qtadmin/human/send-invite-email.md)起步，只提炼了其中三个单元。以下为待办，按「待提炼、待核对、待裁定」分组。
 
 ## 待提炼
 
